@@ -4,7 +4,7 @@ import { Text } from 'react-native';
 export default class Home extends Component{
     render() {
         return (
-            <Text>asdfds</Text>
+            <Text></Text>
         );
     }
 }
